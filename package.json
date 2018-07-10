@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "<h3> On development. </h3>",
   "main": "index.js",
   "engines": {
     "node": "10.5.0",
@@ -15,9 +15,17 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
-    "mongoose": "^5.2.0",
+    "mongoose": "^5.2.2",
     "nodemon": "^1.17.5",
     "passport": "^0.4.0",
     "passport-google-oauth20": "^1.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roeck/nact.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Roeck/nact/issues"
+  },
+  "homepage": "https://github.com/Roeck/nact#readme"
 }
